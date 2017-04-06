@@ -12,4 +12,4 @@ Software Engineer.
 
 ### Contact me
 
-[email@domain.com](mailto:thisisrajsb@gmail.com)
+[thisisrajsb@gmail.com](mailto:thisisrajsb@gmail.com)
